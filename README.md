@@ -9,6 +9,7 @@ Este repossitorio aloja una aplicación web moderna de Pokédex construida con N
 - Vista Detallada: Información de cada pokémon incluyendo:
   - Imagen oficial de alta calidad
   - Tipos elementales
+  - Número de Pokédex
 Diseño Responsive: Interfaz adaptable a diferentes tamaños de pantalla
 Animaciones Suaves: Transiciones y efectos hover para mejor experiencia de usuario (colores bonitos)
 
