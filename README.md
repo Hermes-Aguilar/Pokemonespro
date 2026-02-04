@@ -10,8 +10,9 @@ Este repossitorio aloja una aplicación web moderna de Pokédex construida con N
   - Imagen oficial de alta calidad
   - Tipos elementales
   - Número de Pokédex
-Diseño Responsive: Interfaz adaptable a diferentes tamaños de pantalla
-Animaciones Suaves: Transiciones y efectos hover para mejor experiencia de usuario (colores bonitos)
+    
+- Diseño Responsive: Interfaz adaptable a diferentes tamaños de pantalla
+- Animaciones Suaves: Transiciones y efectos hover para mejor experiencia de usuario (colores bonitos)
 
 # Tecnologías
 
