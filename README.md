@@ -4,9 +4,9 @@ Este repossitorio aloja una aplicación web moderna de Pokédex construida con N
 
 # Características
 
-Catálogo de Pokémones: Visualiza una galería con los pokémones iniciales y más
-Navegación Lateral: Menú lateral con acceso rápido a pokémones que yo creo que estan chidos
-Vista Detallada: Información de cada pokémon incluyendo:
+- Catálogo de Pokémones: Visualiza una galería con los pokémones iniciales y más
+- Navegación Lateral: Menú lateral con acceso rápido a pokémones que yo creo que estan chidos
+- Vista Detallada: Información de cada pokémon incluyendo:
   - Imagen oficial de alta calidad
   - Tipos elementales
 Diseño Responsive: Interfaz adaptable a diferentes tamaños de pantalla
